@@ -15,7 +15,7 @@
 #Logo h1{
     font-family: "Roboto", sans-serif;
     font-weight: 400;
-    font-size: 48px;
+    font-size: 45px; /* hier was ändern */
 }
 
 #navi-list{
